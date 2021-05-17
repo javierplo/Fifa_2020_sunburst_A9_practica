@@ -1,0 +1,4 @@
+cd ../A9_Practica
+python -m http.server
+
+Ir a la siguiente url: http://localhost:8000/A9-Practica.html
